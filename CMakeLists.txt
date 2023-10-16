@@ -4,4 +4,5 @@ project(c___learning)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(c___learning
-        "01 c++��дHelloWorld/main.cpp")
+        "01 c++��дHelloWorld/main.cpp"
+        02_type_of_data/main.cpp)
